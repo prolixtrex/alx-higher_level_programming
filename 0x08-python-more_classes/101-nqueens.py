@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""N queens problem."""
+"""N queens problem. """
 import sys
 
 
